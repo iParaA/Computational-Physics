@@ -2,4 +2,4 @@
  Problem Solutions to Computational Physics by Mark Newman
 
 Online resource provided by the author, has some necessary .py and .txt files to run some programs.
-[dataviz](https://public.websites.umich.edu/~mejn/cp/programs.html)!<br/>
+(https://public.websites.umich.edu/~mejn/cp/programs.html)
